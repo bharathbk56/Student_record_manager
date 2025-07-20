@@ -1,0 +1,42 @@
+Bharath,001,CSE,100
+Ramasubramanian P,002,CSE,98
+Dinesh R,003,CSE,97
+Dhameez Hassan M S,004,CSE,96
+Shanmathi,005,CSE,96
+Ananya Suresh,006,CSE,91
+Rahul Ramesh,007,IT,88
+Divya Narayanan,008,ECE,93
+Karthik V,009,CSE,85
+Sneha Raj,010,EEE,89
+Ajay Kumar,011,MECH,79
+Pooja M,012,CSE,92
+Rohit Singh,013,IT,87
+Lavanya R,014,CSE,95
+Harini S,015,CSE,94  
+Abdul Rahman,016,IT,86  
+Meera Nandakumar,017,ECE,91  
+Vikram Raj,018,EEE,88  
+Priya Shankar,019,CSE,90  
+Naveen Kumar,020,MECH,78  
+Shreya Das,021,CSE,93  
+Kiran K,022,IT,85  
+Revathi M,023,ECE,89  
+Sundar V,024,CSE,92  
+Jayasri R,025,EEE,84  
+Deepak M,026,CSE,88  
+Anjali Menon,027,IT,90  
+Gowtham S,028,ECE,83  
+Ishwarya P,029,CSE,96  
+Kavinraj T,030,MECH,75  
+Nithya Rani,031,IT,87  
+Manoj Sekar,032,CSE,89  
+Tanya Paul,033,EEE,86  
+Roshan Babu,034,ECE,91  
+Swathi K,035,CSE,94  
+Arjun Dev,036,IT,88  
+Divakar R,037,CSE,92  
+Keerthana M,038,EEE,85  
+Tarun S,039,ECE,90  
+Saran Prakash,040,ECE,90
+
+Theji,041,CSE,98
