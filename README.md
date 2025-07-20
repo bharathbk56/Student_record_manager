@@ -75,15 +75,13 @@ Each record must contain 4 fields: Name, Roll Number, Department, and Marks (com
 
 Want to improve this project? Here’s how you can help:
 
-- ✅ Add input validation
-- ✅ Enhance UI with Tkinter
-- ✅ Add update/edit functionality
-- ✅ Create a CSV or SQLite version
-- ✅ Convert it into a web app using Flask
+- Add input validation
+- Enhance UI with Tkinter
+- Add update/edit functionality
+- Create a CSV or SQLite version
+- Convert it into a web app using Flask
 
 Feel free to fork the repository, make your improvements, and submit a pull request!
-
----
 
 # Acknowledgements
 
